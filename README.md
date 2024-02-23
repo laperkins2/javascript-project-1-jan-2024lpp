@@ -30,3 +30,5 @@ Author:
 ## Acknowledgements
 
 - https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_checkbox2
+- https://www.w3schools.com/jsref/prop_checkbox_checked.asp
+- https://www.quirksmode.org/js/boolean.html
