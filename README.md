@@ -6,8 +6,8 @@ You check the checkmarks for the facial features of a person, and the program gu
 
 ## About
 
-* index.html - the homepage
-* script.js - the JavaScript file
+- index.html - the homepage
+- script.js - the JavaScript file
 
 ## Built With
 
@@ -18,17 +18,19 @@ You check the checkmarks for the facial features of a person, and the program gu
 
 ## Roadmap
 
-- [ ] index.html
-- [ ] script.js
-- [ ] 
-- [ ] Bootstrap included
+- [x] index.html
+- [x] script.js
+- [x] pics included
+- [x] Bootstrap included
 
 ## Contact
 
-Author: 
+Author: Louis Perkins
 
 ## Acknowledgements
 
 - https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_checkbox2
 - https://www.w3schools.com/jsref/prop_checkbox_checked.asp
 - https://www.quirksmode.org/js/boolean.html
+- https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
+  -Robert McCrear
